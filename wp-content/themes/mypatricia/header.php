@@ -13,7 +13,7 @@
 	<!-- Favicon -->
 	<link href="<?php bloginfo('template_directory')?>/assets/img/favicon.ico" rel="icon" type="image/ico" />
 	<!-- Fonts -->
-	<link href="../fonts.googleapis.com/cssff98.css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/cssff98.css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
 	<!-- Icons -->
 	<link href="<?php bloginfo('template_directory')?>/assets/vendor/font-awesome/css/font-awesome.min.css"
 		rel="stylesheet" />
@@ -30,7 +30,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css" />
 	<script src="https://unpkg.com/scrollreveal%404.0.5/dist/scrollreveal.js"></script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="htpps://www.googletagmanager.com/gtag/js4596?id=UA-151902005-1"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js4596?id=UA-151902005-1"></script>
 	<script>
 	window.dataLayer = window.dataLayer || [];
 

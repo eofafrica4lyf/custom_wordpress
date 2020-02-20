@@ -146,7 +146,7 @@
           ? initFreshChat()
           : (((e = i.createElement('script')).id = t),
             (e.async = !0),
-            (e.src = '../wchat.freshchat.com/js/widget.js'),
+            (e.src = 'https://wchat.freshchat.com/js/widget.js'),
             (e.onload = initFreshChat),
             i.head.appendChild(e));
       }

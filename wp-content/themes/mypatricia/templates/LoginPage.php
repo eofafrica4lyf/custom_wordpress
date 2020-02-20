@@ -149,167 +149,167 @@ Template Name: Login Page
 	<link href="<?php bloginfo("template_directory")?>/assets/login/css/transactions.routes.9592f42c.css" rel="stylesheet">
 	<link href="<?php bloginfo("template_directory")?>/assets/login/css/verifyregistrationemail.routes.4bf59011.css" rel="stylesheet">
 	<link href="<?php bloginfo("template_directory")?>/assets/login/css/wallet.routes.ff2767da.css" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Bitcoin.routes.eb473ba1.js"" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/ConfirmReg.routes.2ff7fdfa.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/ForgotPassword.routes.c685a271.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Giftcards.routes.ae50e252.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Home.routes.326b9649.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Login.routes.81892e45.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Paypal.routes.aa197047.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/PerfectMoney.routes.67d5ff0e.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Rates.routes.037cf076.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterBank.routes.ad433bf0.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterEmail.routes.cbb360c3.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterName.routes.d3929081.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPassword.routes.3d9b676a.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPhone.routes.660185d2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPhone.routes~VerifyPhone.routes.63ddb43c.js" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/Settings.routes.7b3cf61c.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/TradeGiftcards.routes.54a35fb9.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/TradeGiftcards.routes~VerifyPhone.routes.6c64a8ea.js" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/VerifyPhone.routes.e4d5b499.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/authverify2faCode.routes.27ddfcf7.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-02bc0153.76e40924.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-04124880.82df30b5.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-044dff20.52d748ed.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-060b5254.394b3e61.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-071f5770.68313b7a.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-09248ac6.94c11ff1.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0a20cdb4.374f7979.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0a9e7790.627e2832.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0c14e09e.2d00669f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0c8eba2c.e04eb403.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0d256c58.b7f51145.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0e11cead.fde5a138.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0eb5f8a8.8e0277fc.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-10d24c19.2a05f0fa.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-11e19c3e.2e34fb6e.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-11f8755c.d6cda2ee.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-145cffda.bfc13de8.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-16610e90.e40fb553.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-192d7b8a.cbcf0248.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1a392542.1e315f89.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1a6e77ea.f34b361f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1acf966e.e3b30e96.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1e37823c.d23c9b9f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-203a3a0b.be3b7af0.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-214e19fa.cd0c60f4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-23da21cd.b5f8883a.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-28cbbf04.2b124e5a.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-29e08a5f.89c31407.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2a2efa78.a805005c.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2be07dcf.3b28fb36.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2c55d9ca.e457a2da.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0ac39a.c08b6ec0.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0be0ee.6b9a3086.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0be333.a4aacdff.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0c26c7.f2dc9d20.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0d6943.1689164d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d2086aa.984128e7.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d208897.3f1c681b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d217741.8fb5bd2b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d21840d.4ed018aa.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d894bf7.07164584.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2e486dbd.eff4c1eb.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2fff909d.6a8e3db8.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-31b53a88.80973c16.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3328850e.2ec82b65.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-35d3ed74.6a0baefb.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-39915385.1da3ff04.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-39ad6f7b.af0cba8c.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3b7d8378.84e86104.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3c61f533.e826f0a2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3cb47ed4.1f23bd14.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3da47f7c.a4abbcff.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3e93e729.9dcdd6e2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3fed10be.89b28b34.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-40044576.5e5ec6a9.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-40f9a13a.ce95fc9b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-414d3086.8ab79830.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-41c946b0.55e8e929.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-428acb30.e7e4f5c1.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4290e922.7dffbfc2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4630a80c.34ef3d94.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-47228a70.99d25581.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-479610aa.50b52dc9.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-48f02545.826b1a44.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-493a457b.01cca826.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-497f7faa.52e2e658.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4a67e67a.3f0c73a6.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4bba72e2.8c7f2ab8.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4d60b3d3.3b5507cf.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4d6e0ceb.f685fb1d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4db8c2d2.f3068bd2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4e139a71.431f0447.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4eb9e66c.05eacb0e.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-542e087e.09d07bfe.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5974e72a.2bbe4002.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5c96b416.f2806a7f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5dba5ae9.11c370f4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5e133ad8.758fe316.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5e3ad2d9.711f1f0b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5f1c0a6a.ee9f2ef4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5f22ebe5.3d2fcbb5.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-624cfce8.4369a40d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-63cd0d5e.85155b3d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-65734950.697fd198.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-674abaf8.99a61a3f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-682f90c4.6594a809.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6a68d65c.2b69802c.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6bd8f398.3b74a85f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6be7ed05.6315ae6c.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6f386506.ff594758.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6fdaa938.00ce17a8.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-707aaaa4.d95ce7cc.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-74393407.04fe32c6.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-77359b76.ded11239.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-77cb6dbf.e61987c0.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-790dbb6c.4b0437d9.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7930a2be.1e380520.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-79627316.a8b41042.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-79937ef9.3aa60af5.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7c9bd2c2.d3472021.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7d576434.e9349a72.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7ee18d7c.06724a5b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7f4a38c8.1db412ef.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7fadacdb.8f83280d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-8ec1c4b8.a034ad58.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-98325c04.7e9bbb52.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-9c2c1272.11a4866f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-a5fddfc0.6c0d5726.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-acd79cca.cd763a19.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b4692ec2.3dd89cbd.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b4c12bc4.3cf2cf88.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b75b4622.7cd2dfbb.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-bb33fb6e.75fcfb08.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c1d65660.dd07024e.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c2e2e254.c1eb6562.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c46c1482.3623edf4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c5633324.a9412624.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c59fdf84.6640f663.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-ca4b57e4.86c5310f.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d072fd9a.4c860e6d.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d20d8548.66745a13.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d2a0828c.fbdfca89.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d3da1670.b5af03a1.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d4b7b9fa.0f6e8ee2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-dd4e589c.fc56bd7b.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-dd944c74.208074b8.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-e6551aba.5488f3b7.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-f0fdef00.a4753cf4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/chunk-f4d58aac.f607bdda.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/depositRedirect.routes.f4814ba4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/notifications.routes.60292dc4.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/products.routes.6c43cadd.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/resetPassword.routes.eddb6453.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/transactions.routes.ad1236ff.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~Giftcards.routes.6bf28c01.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~Home.routes.98cef7c2.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~RegisterBank.routes~RegisterEmail.routes.da08caf6.js" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~VerifyPhone.routes~verifyregistrationemail.routes.53a9e127.js" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~wallet.routes.c92e45e6.js" rel="stylesheet">
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/verifyregistrationemail.routes.84cb556a.js" rel=prefetch>
-	<link href="<?php bloginfo("template_directory")?>/assets/login/js/wallet.routes.26f94464.js" rel="stylesheet">
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Bitcoin.routes.eb473ba1.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/ConfirmReg.routes.2ff7fdfa.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/ForgotPassword.routes.c685a271.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Giftcards.routes.ae50e252.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Home.routes.326b9649.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Login.routes.81892e45.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Paypal.routes.aa197047.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/PerfectMoney.routes.67d5ff0e.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Rates.routes.037cf076.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterBank.routes.ad433bf0.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterEmail.routes.cbb360c3.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterName.routes.d3929081.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPassword.routes.3d9b676a.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPhone.routes.660185d2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/RegisterPhone.routes~VerifyPhone.routes.63ddb43c.js" ></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/Settings.routes.7b3cf61c.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/TradeGiftcards.routes.54a35fb9.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/TradeGiftcards.routes~VerifyPhone.routes.6c64a8ea.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/VerifyPhone.routes.e4d5b499.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/authverify2faCode.routes.27ddfcf7.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-02bc0153.76e40924.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-04124880.82df30b5.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-044dff20.52d748ed.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-060b5254.394b3e61.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-071f5770.68313b7a.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-09248ac6.94c11ff1.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0a20cdb4.374f7979.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0a9e7790.627e2832.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0c14e09e.2d00669f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0c8eba2c.e04eb403.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0d256c58.b7f51145.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0e11cead.fde5a138.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-0eb5f8a8.8e0277fc.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-10d24c19.2a05f0fa.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-11e19c3e.2e34fb6e.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-11f8755c.d6cda2ee.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-145cffda.bfc13de8.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-16610e90.e40fb553.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-192d7b8a.cbcf0248.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1a392542.1e315f89.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1a6e77ea.f34b361f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1acf966e.e3b30e96.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-1e37823c.d23c9b9f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-203a3a0b.be3b7af0.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-214e19fa.cd0c60f4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-23da21cd.b5f8883a.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-28cbbf04.2b124e5a.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-29e08a5f.89c31407.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2a2efa78.a805005c.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2be07dcf.3b28fb36.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2c55d9ca.e457a2da.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0ac39a.c08b6ec0.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0be0ee.6b9a3086.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0be333.a4aacdff.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0c26c7.f2dc9d20.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d0d6943.1689164d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d2086aa.984128e7.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d208897.3f1c681b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d217741.8fb5bd2b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d21840d.4ed018aa.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2d894bf7.07164584.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2e486dbd.eff4c1eb.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-2fff909d.6a8e3db8.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-31b53a88.80973c16.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3328850e.2ec82b65.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-35d3ed74.6a0baefb.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-39915385.1da3ff04.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-39ad6f7b.af0cba8c.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3b7d8378.84e86104.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3c61f533.e826f0a2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3cb47ed4.1f23bd14.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3da47f7c.a4abbcff.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3e93e729.9dcdd6e2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-3fed10be.89b28b34.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-40044576.5e5ec6a9.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-40f9a13a.ce95fc9b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-414d3086.8ab79830.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-41c946b0.55e8e929.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-428acb30.e7e4f5c1.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4290e922.7dffbfc2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4630a80c.34ef3d94.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-47228a70.99d25581.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-479610aa.50b52dc9.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-48f02545.826b1a44.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-493a457b.01cca826.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-497f7faa.52e2e658.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4a67e67a.3f0c73a6.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4bba72e2.8c7f2ab8.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4d60b3d3.3b5507cf.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4d6e0ceb.f685fb1d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4db8c2d2.f3068bd2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4e139a71.431f0447.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-4eb9e66c.05eacb0e.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-542e087e.09d07bfe.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5974e72a.2bbe4002.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5c96b416.f2806a7f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5dba5ae9.11c370f4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5e133ad8.758fe316.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5e3ad2d9.711f1f0b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5f1c0a6a.ee9f2ef4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-5f22ebe5.3d2fcbb5.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-624cfce8.4369a40d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-63cd0d5e.85155b3d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-65734950.697fd198.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-674abaf8.99a61a3f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-682f90c4.6594a809.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6a68d65c.2b69802c.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6bd8f398.3b74a85f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6be7ed05.6315ae6c.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6f386506.ff594758.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-6fdaa938.00ce17a8.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-707aaaa4.d95ce7cc.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-74393407.04fe32c6.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-77359b76.ded11239.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-77cb6dbf.e61987c0.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-790dbb6c.4b0437d9.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7930a2be.1e380520.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-79627316.a8b41042.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-79937ef9.3aa60af5.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7c9bd2c2.d3472021.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7d576434.e9349a72.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7ee18d7c.06724a5b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7f4a38c8.1db412ef.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-7fadacdb.8f83280d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-8ec1c4b8.a034ad58.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-98325c04.7e9bbb52.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-9c2c1272.11a4866f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-a5fddfc0.6c0d5726.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-acd79cca.cd763a19.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b4692ec2.3dd89cbd.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b4c12bc4.3cf2cf88.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-b75b4622.7cd2dfbb.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-bb33fb6e.75fcfb08.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c1d65660.dd07024e.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c2e2e254.c1eb6562.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c46c1482.3623edf4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c5633324.a9412624.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-c59fdf84.6640f663.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-ca4b57e4.86c5310f.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d072fd9a.4c860e6d.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d20d8548.66745a13.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d2a0828c.fbdfca89.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d3da1670.b5af03a1.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-d4b7b9fa.0f6e8ee2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-dd4e589c.fc56bd7b.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-dd944c74.208074b8.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-e6551aba.5488f3b7.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-f0fdef00.a4753cf4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/chunk-f4d58aac.f607bdda.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/depositRedirect.routes.f4814ba4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/notifications.routes.60292dc4.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/products.routes.6c43cadd.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/resetPassword.routes.eddb6453.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/transactions.routes.ad1236ff.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/vendors-Giftcards.routes.6bf28c01.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/vendors-Home.routes.98cef7c2.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/vendors-RegisterBank.routes~RegisterEmail.routes.da08caf6.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/vendors-VerifyPhone.routes~verifyregistrationemail.routes.53a9e127.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/vendors-wallet.routes.c92e45e6.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/verifyregistrationemail.routes.84cb556a.js"></script>
+	<script src="<?php bloginfo("template_directory")?>/assets/login/js/wallet.routes.26f94464.js"></script>
 	<link href="<?php bloginfo("template_directory")?>/assets/login/js/app.b3c01730.js" rel=preload as=script>
 	<link href="<?php bloginfo("template_directory")?>/assets/login/js/vendors~app.32d1dbbc.js" rel=preload as=script>
 	
@@ -373,7 +373,7 @@ Template Name: Login Page
 											</button></div>
 									</form><br data-v-378b7697="">
 									New to Patricia ? <a data-v-378b7697="" href="<?php echo $root ?>/register"
-										class="text-primary font-12 text-bold"><a href="<?php echo $root ?>/register" data-v-378b7697="">Sign up here</a></a>
+										class="text-primary font-12 text-bold">Sign up here</a>
 								</div>
 							</div>
 						</div>
