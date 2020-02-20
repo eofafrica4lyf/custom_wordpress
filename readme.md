@@ -4,7 +4,7 @@ Steps to Installation/Pre-requisites(on localhost)
 - Login with admin details specified by you.
 - While in the admin dashboard, navigate to 'Themes' under the 'Appearance' menu and activate the MyPatricia theme.
 - Navigate to the Permalinks under Settings and select 'Custom structure' under Common Settings.
-- Add Two New Pages named 'Login' and 'Register';
+- Add Two New (Empty)Pages named 'Login' and 'Register';
 - Navigate to the Home Page and subsequently to the Login and Register pages
 
 The pages available on the theme are 3;
