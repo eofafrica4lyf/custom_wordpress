@@ -247,7 +247,7 @@
 								</a>
 							</li>
 							<li class="nav-item ml-lg-4">
-								<a id="signup-btn" class="btn btn-patricia btn-round" href="<?php get_site_url(); ?>/register/name">
+								<a id="signup-btn" class="btn btn-patricia btn-round" href="<?php echo $root ?>/register">
 									<span class="nav-link-inner--text">Sign Up</span>
 								</a>
 							</li>
